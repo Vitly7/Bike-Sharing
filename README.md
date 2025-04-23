@@ -1,4 +1,5 @@
 # 🚲 Bike Sharing Dashboard – Vittorio Fiorentino
+![image](https://github.com/user-attachments/assets/de5c9c07-ed19-47dd-a2b1-41caef743b0a)
 
 Ini adalah project **Analisa Data Bike Sharing** yang menampilkan dashboard interaktif menggunakan **Streamlit**. Dashboard ini menyajikan visualisasi data peminjaman sepeda, termasuk tren harian, perbandingan hari kerja dan akhir pekan, serta heatmap aktivitas harian berdasarkan jam.
 
